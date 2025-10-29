@@ -63,7 +63,7 @@ para
 Output:
 
 Did you mean:
-- Paracetamol
-- Pantoprazole
-- Omeprazole
+=> Paracetamol
+=> Pantoprazole
+=> Omeprazole
 
